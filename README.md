@@ -15,7 +15,7 @@ Termux:
 
 pkg install python2
 pkg install git
-git clone https://github.com/Ranginang67/DarkFly-Tool
+git clone https://github.com/Bibek-Hax/DarkFly-Tool
 cd DarkFly-Tool
 python2 install.py
 1.if installed is complite, use command
